@@ -1,4 +1,3 @@
-# 💫 About Me:
 👯 Working hard on challenges from Codingame and Codewars.<br>🔭 Currently developing my portfolio.<br>🤝 Open to collaborations on any project.<br>🌱 Also exploring the world of video game development.<br>⚡ Occasionally let my puppy play around on the keyboard to inspire the creative flow.
 
 
@@ -12,7 +11,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=paulderuelle&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=paulderuelle&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ "Just because many of them are wrong doesn’t mean they’re right." - Some philosophic guy
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
