@@ -1,7 +1,6 @@
 ## 💫 About Me:
-👯 Working hard on challenges from Codingame and Codewars.<br>
+👯 [Love performing on pod courses](https://www.codingame.com/profile/8be7f781541e65d54e00debef38547c90199255).<br>
 🔭 Currently developing my portfolio.<br>
-🤝 Open to collaborations on any project.<br>
-🌱 Also exploring the world of video game development. <br>
+🌱 Also working on a rich-story narrativ online experience for rolists. <br>
 ⚡ Occasionally let my puppy play around on the keyboard to inspire the creative flow.
 
