@@ -3,4 +3,4 @@
 🔭 [My portfolio] (https://www.craftedrealm.org)(available soon)<br>
 🌱 Also working on a rich-story narrativ online experience for rolists<br>
 
-<img src="https://api.iconify.design/skill-icons:html.svg?color=%23888888">
+<img src="https://api.iconify.design/skill-icons:html.svg?color=%23888888" width="32" height="32">
